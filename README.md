@@ -5,3 +5,5 @@ Cần có source :
 eden_jail, 
 esx_communityservice, 
 esx_wanted
+____
+MỌI GÓP Ý BÁO LỖI VUI LÒNG VÀO PHẦN : Issues 
